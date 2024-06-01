@@ -17,12 +17,12 @@ const router = createRouter({
       component: MainLayout,
       children: [
         {
-          path: '/',
+          path: '',
           name: 'home',
           component: HomeView,
         },
         {
-          path: '/students',
+          path: '/admin/students',
           name: 'stutents',
           component: StudentView
         }
