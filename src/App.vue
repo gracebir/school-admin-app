@@ -1,5 +1,8 @@
 <template>
-  <RouterView />
+  <main class="font-poppins">
+    <RouterView />
+  </main>
+ 
 </template>
 
 <script lang="ts">

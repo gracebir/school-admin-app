@@ -1,6 +1,6 @@
 <template>
-  <header>
-    <h1>header</h1>
+  <header class="px-4 py-8 bg-gray-400">
+   
   </header>
 </template>
 
